@@ -32,3 +32,5 @@ switch(mont){
 2>=3? console.log("yes"):console.log("no");
 
 
+//falsy values
+//0,null,undefined,NaN,""
